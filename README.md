@@ -3,7 +3,7 @@ sana@github:~$ cat README.md
 
 SANA
 ──────────────────────────────────────────────
-Security engineer. 12 years. Currently in /learning.
+Security engineer. 12 years. Currently in /building.
 
 sana@github:~$ ls -la
 
